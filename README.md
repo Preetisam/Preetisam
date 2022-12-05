@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Preetisam
-- 👀 I’m interested in javascirpt
+- 👀 I’m interested and learned javascript, nodejs.expressjs,backend,app creation,
 - 🌱 I’m currently learning fullslack
 - 💞️ I’m looking to collaborate on upcoming porjects and suggestions
 - 📫 How to reach me ping me
