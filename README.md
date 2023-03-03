@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Preetisam
-- 👀 I’m interested and learned javascript, nodejs.expressjs,backend,app creation,
-- 🌱 I’m currently learning fullslack
-- 💞️ I’m looking to collaborate on upcoming porjects and suggestions
-- 📫 How to reach me ping me
+Hi 👋 !
+Kmamilla Preeti Samuel
 
-<!---
-Preetisam/Preetisam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I am a learner, programmer, full-stack developer, motivator, content creator and data analyst. 
+
+
+Frontend Technologies
+HTML5 logo CSS3 logo Bootstrap logo Sass logo JavaScript logo ES6 logo D3 logo react logo redux logo Gatsby logo
+Backend Technologies
+Node logo express logo D3 logo mysql logo sqlite logo Python logo Flask logo Django logo
+
+Figma logo VS Code logo Git logo ESLint logo Webpack logo Nodemon logo
+Top Langs
+
+
+✅ HTML
+✅ CSS
+✅ Git and GitHub
+✅ JavaScript
+✅ React
+✅ Python
+✅ Data Analysis
