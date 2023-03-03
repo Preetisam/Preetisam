@@ -7,6 +7,7 @@ I have built a few projects on Web Development using Express, ReactJS, Node.js, 
 I am passionate about developing complex applications that solve real-world problems impacting millions of users.
 I always strive to bring 100% to the work I do. 
 Frontend Technologies
+<br/>
 ✅ HTMl
 <br/>
 ✅ CSS
