@@ -27,15 +27,36 @@
 
 <!-- BLOG-POST-LIST:START -->
     <p align="left"> <a href="https://medium.com/@preetisamuel" target="_blank" rel="noreferrer"> 
-  <img src="[https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb1%2FMedium_logo_Wordmark_Black.svg%2F2560px-Medium_logo_Wordmark_Black.svg.png&tbnid=CCpSIz0jfx8ZNM&vet=12ahUKEwiyycHI-uz-AhWqitgFHbn_D8gQMygJegUIARDOAQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMedium_logo_Wordmark_Black.svg&docid=lx2F06jlsLULnM&w=2560&h=505&q=mediumlogo%20svg&ved=2ahUKEwiyycHI-uz-AhWqitgFHbn_D8gQMygJegUIARDOAQ)" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.youtube.com/@codeclubanalysis7739" target="_blank" rel="noreferrer"> 
+  <img src="" alt="Medium" width="40" height="40"/> </a> <a href="https://medium.com/@preetisamuel" target="_blank" rel="noreferrer"> 
 <!-- BLOG-POST-LIST:END -->
     <p align="left"> <a href="https://kamilapreetisamuel.hashnode.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.youtube.com/@codeclubanalysis7739" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode" width="40" height="40"/> </a> <a href="https://kamilapreetisamuel.hashnode.dev/" target="_blank" rel="noreferrer"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- ### TECHNICAL SKILLS
-
+ ### soft SKILLS
+<h3 align="left">Soft Skills:</h3>
+<ui text-decoration="none">
+    <li text-decoration="none">Problem Solving Skills<li>
+     <li text-decoration="none">Clean and Maintainable Coding<li>    
+    <li text-decoration="none">Good communication<li>    
+    <li text-decoration="none">Team Sprit<li>    
+    <li text-decoration="none">Flexibility and adaptability<li>    
+    <li text-decoration="none">Time Management<li>   
+    <li text-decoration="none">Positive Mindset and Creative Thinking<li>   
+  ### TECHNICAL SKILLS   
+  <h3 align="left">Technical Skills:</h3>
+    </ui>
+    <ui text-decoration="none">
+      <li text-decoration="none"> MERN Stack:- MongoDB, Express.js, React.js, Node.js<li>   
+    <li text-decoration="none">Web Development:- HTML5, CSS3, JavaScript, Webpack, REST APIs <li>    
+    <li text-decoration="none">Frontend:- Next.js, Redux.js, Bootstrap, Tailwind CSS, Chakra UI <li>   
+    <li text-decoration="none">Backend:- Express.js, Sequelize, Mongoose<li>    
+    <li text-decoration="none">Programming Languages and DSA :- JavaScript, C++, DSA<li>   
+    <li text-decoration="none">
+Tools and Technologies:- Git & Github, Visual Studio Code, Postman, SQL workbench, MongoDB Compass, Powershell etc.
+<li>   
+    </ui>
  
 
 
