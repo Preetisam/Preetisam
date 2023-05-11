@@ -26,9 +26,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-  
-<a href="https://kamilapreetisamuel.hashnode.dev/"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhashnode.com%2Fbrand-resources&psig=AOvVaw3Gt2o1bnSANDmw19wXRsOn&ust=1683883250186000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiV3Yn47P4CFQAAAAAdAAAAABAE)" alt="" height="30" width="40" /></a>
+    <p align="left"> <a href="https://medium.com/@preetisamuel" target="_blank" rel="noreferrer"> 
+  <img src="[https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb1%2FMedium_logo_Wordmark_Black.svg%2F2560px-Medium_logo_Wordmark_Black.svg.png&tbnid=CCpSIz0jfx8ZNM&vet=12ahUKEwiyycHI-uz-AhWqitgFHbn_D8gQMygJegUIARDOAQ..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMedium_logo_Wordmark_Black.svg&docid=lx2F06jlsLULnM&w=2560&h=505&q=mediumlogo%20svg&ved=2ahUKEwiyycHI-uz-AhWqitgFHbn_D8gQMygJegUIARDOAQ)" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.youtube.com/@codeclubanalysis7739" target="_blank" rel="noreferrer"> 
 <!-- BLOG-POST-LIST:END -->
+    <p align="left"> <a href="https://kamilapreetisamuel.hashnode.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.youtube.com/@codeclubanalysis7739" target="_blank" rel="noreferrer"> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
