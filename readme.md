@@ -4,7 +4,7 @@
 <h3 align="center">I'm a skilled Full Stack Developer</h3>
 </br>
 <p>I am constantly seeking opportunities to improve my skills in both frontend and backend technologies. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!</p>
-</br>
+
 <p>I am dedicated to collaborating with a team to create innovative solutions that fullfill the requirements of clients and end-users. My thirst for knowledge and my meticulous attention to detail drive me to deliver top-notch work that goes beyond expectations, I'm committed to delivering high-quality work that exceeds expectations. <p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6587ec1b3304a4351679cd4324e47a86ac3e17f878d446bf0e8e6856551d80ba/68747470733a2f2f7468656e696e65686572747a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30362f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
