@@ -26,10 +26,16 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+  
+<a href="https://kamilapreetisamuel.hashnode.dev/"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhashnode.com%2Fbrand-resources&psig=AOvVaw3Gt2o1bnSANDmw19wXRsOn&ust=1683883250186000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiV3Yn47P4CFQAAAAAdAAAAABAE)" alt="https://www.linkedin.com/in/swati-sharma-4097781b0/" height="30" width="40" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ ### TECHNICAL SKILLS
+
+ 
+
 
 <a href="https://www.linkedin.com/in/preeti-samuel-5a247962/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swati-sharma-4097781b0/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/samuel_preeti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swati_sharma2810" height="30" width="40" /></a>
