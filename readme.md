@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-- 👨‍💻 All of my projects are available at [https://vikas-resume.vercel.app/](https://vikas-resume.vercel.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://vikas-resume.vercel.app/](https://vikas-resume.vercel.app/) -->
 
 - 📝 I write articles on [https://medium.com/@preetisamuel](https://medium.com/@preetisamuel)
 
@@ -27,7 +27,7 @@
 
 <!-- BLOG-POST-LIST:START -->
   
-<a href="https://kamilapreetisamuel.hashnode.dev/"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhashnode.com%2Fbrand-resources&psig=AOvVaw3Gt2o1bnSANDmw19wXRsOn&ust=1683883250186000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiV3Yn47P4CFQAAAAAdAAAAABAE)" alt="https://www.linkedin.com/in/swati-sharma-4097781b0/" height="30" width="40" /></a>
+<a href="https://kamilapreetisamuel.hashnode.dev/"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhashnode.com%2Fbrand-resources&psig=AOvVaw3Gt2o1bnSANDmw19wXRsOn&ust=1683883250186000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKiV3Yn47P4CFQAAAAAdAAAAABAE)" alt="" height="30" width="40" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -37,8 +37,8 @@
  
 
 
-<a href="https://www.linkedin.com/in/preeti-samuel-5a247962/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swati-sharma-4097781b0/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/samuel_preeti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swati_sharma2810" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/preeti-samuel-5a247962/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/preeti-samuel-5a247962/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/samuel_preeti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samuel_preeti" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
