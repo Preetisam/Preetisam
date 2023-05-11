@@ -24,17 +24,14 @@
 - 📄 Know about my experiences [[https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)]
 
 ### Blogs posts
+<!-- 
 
-<!-- BLOG-POST-LIST:START -->
-    <p align="left"> <a href="https://medium.com/@preetisamuel" target="_blank" rel="noreferrer"> 
-  <img src="" alt="Medium" width="40" height="40"/> </a> <a href="https://medium.com/@preetisamuel" target="_blank" rel="noreferrer"> 
-<!-- BLOG-POST-LIST:END -->
-    <p align="left"> <a href="https://kamilapreetisamuel.hashnode.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode" width="40" height="40"/> </a> <a href="https://kamilapreetisamuel.hashnode.dev/" target="_blank" rel="noreferrer"> 
+ <a href="https://kamilapreetisamuel.hashnode.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Hashnode" width="40" height="40"/> </a> <a href="https://kamilapreetisamuel.hashnode.dev/" target="_blank" rel="noreferrer">  -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- ### soft SKILLS
+<!--  ### soft SKILLS
 <h3 align="left">Soft Skills:</h3>
 <ui text-decoration="none">
     <li text-decoration="none">Problem Solving Skills<li>
@@ -56,7 +53,7 @@
     <li text-decoration="none">
 Tools and Technologies:- Git & Github, Visual Studio Code, Postman, SQL workbench, MongoDB Compass, Powershell etc.
 <li>   
-    </ui>
+    </ui> -->
  
 
 
