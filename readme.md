@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-tgvwb&psig=AOvVaw00QM97fwHHJJ__ouoly5l1&ust=1684492771126000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJD14NvW_v4CFQAAAAAdAAAAABAL)
+![MasterHead](https://e0.pxfuel.com/wallpapers/66/409/desktop-wallpaper-software-engineer-software-development.jpg)
 
 <h1 align="center">Hi 👋, Kamilla Preeti Samuel</h1>
 <h3 align="center">I'm a skilled Full Stack Developer</h3>
