@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, Kamilla Preeti Samuel</h1>
 <h3 align="center">I'm a skilled Full Stack Developer</h3>
 </br>
+<p align="left"> <a href="https://twitter.com/preeti_samuel1" target="blank"><img src="https://img.shields.io/twitter/follow/preeti_samuel1?logo=twitter&style=for-the-badge" alt="preeti_samuel1" /></a> </p>
+
 <p>I am constantly seeking opportunities to improve my skills in both frontend and backend technologies. I'm a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!</p>
 
 <p>I am dedicated to collaborating with a team to create innovative solutions that fullfill the requirements of clients and end-users. My thirst for knowledge and my meticulous attention to detail drive me to deliver top-notch work that goes beyond expectations, I'm committed to delivering high-quality work that exceeds expectations. <p>
