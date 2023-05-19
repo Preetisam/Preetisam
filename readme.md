@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-<!-- - 👨‍💻 All of my projects are available at [https://vercel.com/preetisam/portfolio](https://vercel.com/preetisam/portfolio) -->
+- 👨‍💻 All of my projects are available at [https://vercel.com/preetisam/portfolio](https://vercel.com/preetisam/portfolio)
 
 - 📝 I write articles on [https://medium.com/@preetisamuel](https://medium.com/@preetisamuel)
 
