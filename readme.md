@@ -24,8 +24,9 @@
 - 📫 How to reach me **preetikamilla@gmail.com**
 
 <!-- - 📄 Know about my experiences [(https://docs.google.com/document/d/1JugrBKvTJ4NpLixbyhR9XmrSORUlmixk/edit#)] -->
+- 📄 Know about my experiences  👨‍💻 All of my projects:
+### Blogs posts: ping @ preetikamilla@gmail.com
 
-### Blogs posts
 
 
  <a href="https://kamilapreetisamuel.hashnode.dev/" target="_blank" rel="noreferrer"> 
