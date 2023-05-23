@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **preetikamilla@gmail.com**
 
-- 📄 Know about my experiences [(https://docs.google.com/document/d/1JugrBKvTJ4NpLixbyhR9XmrSORUlmixk/edit#)]
+<!-- - 📄 Know about my experiences [(https://docs.google.com/document/d/1JugrBKvTJ4NpLixbyhR9XmrSORUlmixk/edit#)] -->
 
 ### Blogs posts
 
